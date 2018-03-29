@@ -1,0 +1,6 @@
+{
+  "name": "teamleader/linting-rules",
+  "autoload": {
+    "classmap": ["php/"]
+  }
+}
